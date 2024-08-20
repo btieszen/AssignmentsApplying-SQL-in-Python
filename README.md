@@ -1,0 +1,1 @@
+The database is in the file Assignments Applying SQL in python.  To run the program first run connect_mysql.py. This will connect to the data base. Then run main.py. This is the main program where you will be greeted with a menu that will ask for different inputs to see what you would like to do in the gym membership application
